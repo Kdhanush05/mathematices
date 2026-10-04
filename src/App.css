@@ -62,7 +62,11 @@ h2 {
 
 .count {
     font-size: 50px;
-    color: #d47d0c;
+    color: #ad6f1d;
+}
+.message{
+    color: red;
+    font-size: medium;
 }
 
 /* Buttons */
@@ -110,6 +114,9 @@ input:focus {
 
     border-color: #2563eb;
 }
+
+
+
 
 /* Message */
 
